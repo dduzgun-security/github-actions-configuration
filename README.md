@@ -33,3 +33,18 @@
 Looking for a guideline to configure your GitHub Actions in a secure way? 
 
 Here is a :fire: list of things to do!
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/dduzgun-security/github-actions-configuration.svg?style=flat-square
+[contributors-url]: https://github.com/dduzgun-security/github-actions-configuration/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/dduzgun-security/github-actions-configuration?style=flat-square
+[forks-url]: https://github.com/dduzgun-security/github-actions-configuration/network/members
+[stars-shield]: https://img.shields.io/github/stars/dduzgun-security/github-actions-configuration.svg?style=flat-square
+[stars-url]: https://github.com/dduzgun-security/github-actions-configuration/stargazers
+[issues-shield]: https://img.shields.io/github/issues/dduzgun-security/github-actions-configuration.svg?style=flat-square
+[issues-url]: https://github.com/dduzgun-security/github-actions-configuration/issues
+[license-shield]: https://img.shields.io/github/license/dduzgun-security/github-actions-configuration.svg?style=flat-square
+[license-url]: https://github.com/dduzgun-security/github-actions-configuration/blob/master/LICENSE.txt
