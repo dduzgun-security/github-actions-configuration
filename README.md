@@ -34,7 +34,33 @@ Looking for a guideline to configure your GitHub Actions in a secure way?
 
 Here is a :fire: list of things to do!
 
+<!-- SUPPORT SECTION -->
+## Support section
+[Github Enterprise Support](https://enterprise.github.com/support) offers very usefull assistance on everything you search. :+1:
 
+* [Documentations](https://help.github.com/en)
+* [Request creation](https://enterprise.githubsupport.com/hc/en-us/requests/new)
+
+Also, GitHub offers a [Premium Support](https://help.github.com/en/github/working-with-github-support/about-github-premium-support-for-github-enterprise-cloud) with a 24/7 hours of operation availability time.
+
+<!-- CONTRIBUTING -->
+## Contributing
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git add . && git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+<!-- LICENSE -->
+## License
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+<!-- CONTACT -->
+## Contact
+[Deniz Onur Duzgun](https://github.com/dduzgun-security)  
+[Khalid Nazmus Sakib](https://github.com/knsakibnbc)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
